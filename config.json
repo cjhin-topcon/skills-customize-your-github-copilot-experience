@@ -58,6 +58,20 @@
           "type": "csv"
         }
       ]
+    },
+    {
+      "id": "fastapi-rest-api",
+      "title": "Building REST APIs with FastAPI",
+      "description": "Design and implement RESTful APIs using FastAPI, including CRUD endpoints and API design principles.",
+      "path": "assignments/fastapi-rest-api",
+      "dueDate": "2026-03-20",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
